@@ -1,0 +1,2 @@
+'serverGame' will be our attempt at making a Python-twisted-based text game on
+the Raspberry Pi, which can be accessed via a command line console.
